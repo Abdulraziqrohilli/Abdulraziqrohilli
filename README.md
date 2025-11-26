@@ -66,7 +66,9 @@
 - Developing **cross-platform mobile applications** with React Native  
 - Implementing **machine learning workflows** for real-world problems  
 - Building **cutting-edge AI and computer vision systems**, leveraging machine learning models for automation, object detection, and real-world problem solving   
-- Continuously learning and experimenting in **Artificial Intelligence and Deep Learning** to solve complex challenges  
+- Continuously learning and experimenting in **Artificial Intelligence and Deep Learning** to solve complex challenges
+- Eager and committed to gaining mastery in **Data Science, Machine Learning, and Artificial Intelligence abroad**.
+ 
 
 
 ---
