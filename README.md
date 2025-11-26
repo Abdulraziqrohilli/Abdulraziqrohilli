@@ -59,27 +59,6 @@
 
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats-eight-tau-34.vercel.app/api?username=abdulraziqrohilli&show_icons=true&theme=radical" alt="Abdul Raziq's GitHub Stats" />
-</p>
-
-<p align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats-eight-tau-34.vercel.app/api/top-langs/?username=abdulraziqrohilli&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulraziqrohilli&theme=radical" alt="GitHub Streak" />
-</p>
-
-
-
-
-
 ---
 
 ## 🧠 Current Focus
@@ -96,8 +75,3 @@
 “Combining **Full-Stack Engineering**, **Mobile Development**, and **AI** to build the future of intelligent software.”
 
 ---
-
-### 🔥 If you want, I can also:
-- Add project cards  
-- Add social icons (LinkedIn, email, etc.)  
-- Add sections for achievements, certificates, or courses  
